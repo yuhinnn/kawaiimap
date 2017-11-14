@@ -2,6 +2,36 @@
   padding: 0;
 }
 
-.content {
-  width:100%;
+body{
+}
+
+.relative{
+  position:relative;
+}
+
+.btn-top{
+  position:absolute;
+  bottom:93%;
+  margin-left:4%;
+}
+
+.btn-bottom{
+  position:absolute;
+  bottom:5.3%;
+  margin-left:24%;
+  width:80%;
+}
+
+.twitter{
+  position:absolute;
+  bottom:0.5%;
+  margin-left:32%;
+  width:20%;
+}
+
+.mail{
+  position:absolute;
+  bottom:0.5%;
+  margin-left:76%;
+  width:20%;
 }
