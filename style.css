@@ -9,6 +9,10 @@ body{
   position:relative;
 }
 
+.lp{
+  position:absolute;
+}
+
 .btn-top{
   position:absolute;
   bottom:93%;
