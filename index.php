@@ -2,10 +2,9 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>kawaiimap撮影会</title>
+    <title>kawaiimap</title>
     <link rel="stylesheet" href="style.css">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <link rel="shortcut icon" href="kamonegi_favicon.png">
 </head>
 <body>
 
