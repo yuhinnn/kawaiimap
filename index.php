@@ -8,7 +8,7 @@
     <link rel="shortcut icon" href="kamonegi_favicon.png">
 </head>
 <body>
-   <img class="logo"src="lp.jpg" alt="">
+   <img class="content"src="lp.jpg" alt="">
     
 </body>
 </html>
