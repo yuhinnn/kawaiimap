@@ -7,6 +7,7 @@ body{
 
 .relative{
   position:relative;
+  width:100%;
 }
 
 .btn-top{
