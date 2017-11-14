@@ -18,6 +18,8 @@ body{
 
 .btn-top{
   position:absolute;
+  margin-top:50%;
+  width:100%;
 /*
   bottom:93%;
   width:100%;
