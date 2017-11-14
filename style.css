@@ -29,6 +29,9 @@ body{
 
 .btn-bottom{
   position:absolute;
+  margin-top:1038%;
+  width:60%;
+  margin-left:18%;
 /*
   bottom:5.3%;
   margin-left:17%;
@@ -39,6 +42,9 @@ body{
 
 .twitter{
   position:absolute;
+  margin-top:1089%;
+  width:20%;
+  margin-left:15%;
 /*
   bottom:0.7%;
   margin-left:20%;
@@ -49,6 +55,9 @@ body{
 
 .mail{
   position:absolute;
+  margin-top:1089%;
+  width:20%;
+  margin-left:64%;
 /*
   bottom:0.7%;
   margin-left:63%;
