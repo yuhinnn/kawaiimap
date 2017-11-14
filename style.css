@@ -10,7 +10,8 @@ body{
 }
 
 .lp{
-  position:absolute;
+  position:relative;
+  width:100%;
 }
 
 .btn-top{
